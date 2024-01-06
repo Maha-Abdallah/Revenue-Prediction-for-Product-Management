@@ -1,1 +1,2 @@
 # Revenue-Prediction-for-Product-Management
+The Revenue Prediction for Product Management project aims to develop and evaluate machine learning models for predicting revenue generated from product sales. The dataset includes various features such as product availability, lead times, production volumes, and costs. The project focuses on implementing and comparing the performance of Linear Regression, Random Forest Regressor, and Gradient Boosting Regressor models.
